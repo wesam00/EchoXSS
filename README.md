@@ -37,8 +37,8 @@ It automatically tests **URL parameters** and **HTML forms** against thousands o
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/.git
-cd EchoXss
+https://github.com/cybertushar404/EchoXSS.git
+cd EchoXSS
 
 pip install -r requirements.txt
 ```
