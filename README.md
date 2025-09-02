@@ -37,8 +37,8 @@ It automatically tests **URL parameters** and **HTML forms** against thousands o
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/xss-scanner.git
-cd xss-scanner
+git clone https://github.com/yourusername/.git
+cd EchoXss
 
 pip install -r requirements.txt
 ```
@@ -52,7 +52,7 @@ pip install undetected-chromedriver
 ### 3.Usage
 Run the scanner:
 ```bash 
-python xss_scanner.py
+python EchoXss.py
 ```
 Steps:
 - Enter a target URL (e.g., http://example.com/search?q=test).
